@@ -1,9 +1,10 @@
 import PageTabs from "../components/tabs"
 
-export default function Home() {
+export default function Tabs() {
   return (
     <>
       <PageTabs />
     </>
   )
 }
+
